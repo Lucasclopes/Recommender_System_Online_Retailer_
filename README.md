@@ -28,6 +28,5 @@ Build a recommender system that is able to facilitate user choices by recommendi
 - ### Analysis of Duplicates, Missing Values and Data Types	
 - ### Data Preparation	
 - ### Coherence Checking	and Outlier detection
-- ### Modelling	
- - #### Market Basket Analysis	(construct association rules and identify items frequently purchased together)
- - #### Recommendation System (lightfm - https://github.com/lyst/lightfm)
+- #### Market Basket Analysis	(construct association rules and identify items frequently purchased together)
+- #### Recommendation System (lightfm - https://github.com/lyst/lightfm)
