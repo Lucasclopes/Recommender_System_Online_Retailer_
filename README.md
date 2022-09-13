@@ -3,7 +3,7 @@ Build a recommender system that is able to facilitate user choices by recommendi
 
 **Summary:** Initially, a market basket analysis was required, in order to identify key customer behaviours and dive deeper into the business. Then, a recommender was developed in order to suugest new products the clients might be interestd in. 
 
-**Keywords**: Python, Predictive Model, Machine Learning, Neural Networks, Decision Trees, Random Forest, Gradient Boost
+**Keywords**: Python, Recommender System, Machine Learning, Association Rules, Market Basket Analysis
 
 ## Important libraries and packages 
 - pandas, numpy
